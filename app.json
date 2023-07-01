@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "my-app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "e5bf9915-5486-44f2-958b-14fb1dcc19d4"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e5bf9915-5486-44f2-958b-14fb1dcc19d4"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
